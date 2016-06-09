@@ -1,0 +1,25 @@
+{
+  "db_version": 1,
+  "files": {
+    "crcns-aa2-all_cells.tar.gz": {
+      "filename": "crcns-aa2-all_cells.tar.gz",
+      "mtime": 1414537294,
+      "size": 17152249
+    },
+    "crcns-aa2-all_stims.tar.gz": {
+      "filename": "crcns-aa2-all_stims.tar.gz",
+      "mtime": 1414537294,
+      "size": 14413299
+    },
+    "crcns-aa2-docs.tar.gz": {
+      "filename": "crcns-aa2-docs.tar.gz",
+      "mtime": 1414537295,
+      "size": 10020
+    },
+    "download-instructions.txt": {
+      "filename": "download-instructions.txt",
+      "mtime": 1414537295,
+      "size": 564
+    }
+  }
+}
